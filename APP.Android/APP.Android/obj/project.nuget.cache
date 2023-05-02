@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5g2mfCSTQP0CWFMtaHIXPcHBKl33XlFYB1hCo1ECyX3d1HYzPg3gbyzsiZupTwDsIExyfGNdZJx3QBZbmNQWUA==",
+  "dgSpecHash": "iHYI3/BDb8rY5QI8YtMlrGagTOig9zk0thgCS96rlxgKdGjJG67AYIh5aYSlDqZc9U7I6gBSgG721Y9RN1mOJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android\\APP.Android.csproj",
+  "projectFilePath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android\\APP.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Gerardo Gomez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\Jose Gerardo Gomez\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

@@ -36,13 +36,13 @@
                                    TextColor="Black"
                                    Text="{Binding LastName, StringFormat='Apellido: {0:F0}' }"
                                    FontSize="Small" />
-                            <Label x:Name="phoneNumber"
-                                   TextColor="Black"
-                                   Text="{Binding Email, StringFormat='Teléfono: {0:F0}'}"
-                                   FontSize="Small" />
                             <Label x:Name="labelEmail"
                                    TextColor="Black"
-                                   Text="{Binding Phone, StringFormat='Correo: {0:F0}' }"
+                                   Text="{Binding Email, StringFormat='Correo: {0:F0}'}"
+                                   FontSize="Small" />
+                            <Label x:Name="phoneNumber"
+                                   TextColor="Black"
+                                   Text="{Binding Phone, StringFormat='Teléfono: {0:F0}' }"
                                    FontSize="Small" />
                         </StackLayout>
                     </ViewCell>

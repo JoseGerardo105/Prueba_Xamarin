@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android.Android\\APP.Android.Android.csproj": {}
+    "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android.Android\\APP.Android.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android.Android\\APP.Android.Android.csproj": {
+    "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android.Android\\APP.Android.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android.Android\\APP.Android.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android.Android\\APP.Android.Android.csproj",
         "projectName": "APP.Android.Android",
-        "projectPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android.Android\\APP.Android.Android.csproj",
+        "projectPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android.Android\\APP.Android.Android.csproj",
         "packagesPath": "C:\\Users\\Jose Gerardo Gomez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android.Android\\obj\\",
+        "outputPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android\\APP.Android.csproj": {
-                "projectPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android\\APP.Android.csproj"
+              "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android\\APP.Android.csproj": {
+                "projectPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android\\APP.Android.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android\\APP.Android.csproj": {
+    "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android\\APP.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android\\APP.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android\\APP.Android.csproj",
         "projectName": "APP.Android",
-        "projectPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android\\APP.Android.csproj",
+        "projectPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android\\APP.Android.csproj",
         "packagesPath": "C:\\Users\\Jose Gerardo Gomez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android\\obj\\",
+        "outputPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Visual Studio\\Shared\\NuGetPackages"

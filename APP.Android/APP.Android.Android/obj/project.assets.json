@@ -3525,11 +3525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android.Android\\APP.Android.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android.Android\\APP.Android.Android.csproj",
       "projectName": "APP.Android.Android",
-      "projectPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android.Android\\APP.Android.Android.csproj",
+      "projectPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android.Android\\APP.Android.Android.csproj",
       "packagesPath": "C:\\Users\\Jose Gerardo Gomez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android.Android\\obj\\",
+      "outputPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3550,8 +3550,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android\\APP.Android.csproj": {
-              "projectPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\ss\\APP.Android\\APP.Android\\APP.Android.csproj"
+            "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android\\APP.Android.csproj": {
+              "projectPath": "C:\\Users\\Jose Gerardo Gomez\\Desktop\\Prueba_Xamarin\\APP.Android\\APP.Android\\APP.Android.csproj"
             }
           }
         }
@@ -3564,6 +3564,14 @@
             "target": "Package",
             "version": "[13.0.3, )"
           },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          },
+          "System.Net.Http": {
+            "target": "Package",
+            "version": "[4.3.4, )"
+          },
           "System.Net.Http": {
             "target": "Package",
             "version": "[4.3.4, )"
@@ -3571,6 +3579,14 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
+          },
+          "Xamarin.Essentials": {
+            "target": "Package",
+            "version": "[1.7.0, )"
+          },
+          "Xamarin.Forms": {
+            "target": "Package",
+            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

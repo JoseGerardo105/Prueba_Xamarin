@@ -78,21 +78,15 @@ namespace APP.Android
             try
             {
                 var menu = sender as MenuItem;
-                int EmpId = Convert.ToInt32(menu.CommandParameter.ToString());
-                string url = $"https://crudusersapi.azurewebsites.net/api/Users?EmpId={EmpId}";
+                int userId = Convert.ToInt32(menu.CommandParameter.ToString());
+
+                string url = $"https://crudusersapi.azurewebsites.net/api/Users?id={userId}";
                 HttpClient client = new HttpClient();
                 HttpResponseMessage response = await client.DeleteAsync(url);
-                string result = await response.Content.ReadAsStringAsync();
-                Response responseData = JsonConvert.DeserializeObject<Response>(result);
-                if (responseData.Status == 1)
-                {
-                    await DisplayAlert("Info", responseData.Message, "OK");
-                    GetUserInfo();
-                }
-                else
-                {
-                    await DisplayAlert("Error", responseData.Message, "ok");
-                }
+                await DisplayAlert("Info", "Se ha eliminado el usuario", "OK");
+
+                GetUserInfo();
+
             }
             catch(Exception ex) {
                 await DisplayAlert("Error", ex.Message, "OK");
