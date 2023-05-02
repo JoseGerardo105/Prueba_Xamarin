@@ -12,10 +12,14 @@
                 <Entry Placeholder="Email" Keyboard="Email" TextColor="Black" x:Name="txtEmail"></Entry>
                 <Entry Placeholder="Teléfono" Keyboard="Numeric" TextColor="Black" x:Name="txtMobile"></Entry>
                 
-                <Button Text="Register" HorizontalOptions="FillAndExpand" x:Name="BtnRegistration"
-                        Clicked="BtnRegistration_Clicked"></Button>
+                <Button Text="Registrar" HorizontalOptions="FillAndExpand" x:Name="BtnRegistration"
+                        Clicked="BtnRegistration_Clicked"
+                        BackgroundColor="DarkSlateBlue"
+                        TextColor="White"></Button>
                 <Button Text="Actualizar" HorizontalOptions="FillAndExpand" x:Name="BtnUpdate"
-                        Clicked="BtnUpdate_Clicked" ></Button>
+                        Clicked="BtnUpdate_Clicked"
+                        BackgroundColor="DarkSlateBlue"
+                        TextColor="White" ></Button>
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

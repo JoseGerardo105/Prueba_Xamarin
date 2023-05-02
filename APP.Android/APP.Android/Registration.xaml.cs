@@ -82,7 +82,8 @@ namespace APP.Android
                 string jsonData = JsonConvert.SerializeObject(userType);
                 StringContent content = new StringContent(jsonData, Encoding.UTF8, "application/json");
                 HttpResponseMessage response = await client.PutAsync(url, content);
-                
+                await DisplayAlert("Info", "Se ha editado el usuario", "OK");
+
                 await Navigation.PopAsync();
             }
             catch (Exception ex)
@@ -138,6 +139,8 @@ namespace APP.Android
                 string result = await response.Content.ReadAsStringAsync();
                 if (result == "true")
                 {
+                    await DisplayAlert("Info", "Se ha registrado el usuario", "OK");
+
                     await Navigation.PopAsync();
                 }
                 else

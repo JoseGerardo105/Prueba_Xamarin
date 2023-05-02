@@ -4,28 +4,32 @@
              x:Class="APP.Android.MainPage"
              Title="Lista de usuarios">
     <StackLayout Padding="15">
-        <Button Text="Add User"
+        <Button Text="Agregar usuario"
                 HorizontalOptions="FillAndExpand"
-                BackgroundColor="Orange"
-                TextColor="Black"
-                Clicked="Button_Clicked" />
+                BackgroundColor="DarkSlateBlue"
+                TextColor="White"
+                TextTransform="None"
+                Clicked="Button_Clicked"
+                />
         <ListView x:Name="UList"
                   HasUnevenRows="True"
                   ItemTapped="UList_ItemTapped"
                   IsPullToRefreshEnabled="True"
+                  BackgroundColor="#D1F2EB"
+                  SeparatorColor="#2874A6"
                   Refreshing="UList_Refreshing">
             <ListView.ItemTemplate>
-                <DataTemplate>
+                <DataTemplate >
                     <ViewCell>
                         <ViewCell.ContextActions>
-                            <MenuItem Text="Delete"
+                            <MenuItem Text="Eliminar"
                                       Clicked="MenuItem_Clicked"
                                       IsDestructive="True"
                                       CommandParameter="{Binding Id}"></MenuItem>
                         </ViewCell.ContextActions>
-                        <StackLayout Spacing="2">
+                        <StackLayout Padding="15">
                             <Label x:Name="labelId"
-                                   TextColor="Black"
+                                   TextColor="DarkBlue"
                                    Text="{Binding Id, StringFormat='Id: {0:F0} '}"
                                    FontSize="Medium" />
                             <Label x:Name="labelName"
