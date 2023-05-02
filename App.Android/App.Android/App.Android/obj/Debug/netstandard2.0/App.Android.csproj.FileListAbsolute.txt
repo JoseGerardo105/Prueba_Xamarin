@@ -1,0 +1,15 @@
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\bin\Debug\netstandard2.0\App.Android.deps.json
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\bin\Debug\netstandard2.0\App.Android.dll
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\bin\Debug\netstandard2.0\App.Android.pdb
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\obj\Debug\netstandard2.0\App.Android.csproj.AssemblyReference.cache
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\obj\Debug\netstandard2.0\App.Android.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\obj\Debug\netstandard2.0\App.Android.AssemblyInfoInputs.cache
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\obj\Debug\netstandard2.0\App.Android.AssemblyInfo.cs
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\obj\Debug\netstandard2.0\App.Android.csproj.CoreCompileInputs.cache
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\obj\Debug\netstandard2.0\App.Android.dll
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\obj\Debug\netstandard2.0\refint\App.Android.dll
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\obj\Debug\netstandard2.0\App.Android.pdb
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\App.Android\App.Android\App.Android\obj\Debug\netstandard2.0\ref\App.Android.dll
