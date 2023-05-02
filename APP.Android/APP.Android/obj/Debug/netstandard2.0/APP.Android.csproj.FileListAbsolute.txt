@@ -1,0 +1,46 @@
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.AssemblyInfo.cs
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\bin\Debug\netstandard2.0\APP.Android.deps.json
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\bin\Debug\netstandard2.0\APP.Android.dll
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\bin\Debug\netstandard2.0\APP.Android.pdb
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.dll
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\obj\Debug\netstandard2.0\refint\APP.Android.dll
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.pdb
+D:\ProyectosProgramacion\XamarinProjects\APP.Android\APP.Android\obj\Debug\netstandard2.0\ref\APP.Android.dll
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\bin\Debug\netstandard2.0\APP.Android.deps.json
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\bin\Debug\netstandard2.0\APP.Android.dll
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\bin\Debug\netstandard2.0\APP.Android.pdb
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\obj\Debug\netstandard2.0\APP.Android.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\obj\Debug\netstandard2.0\APP.Android.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\obj\Debug\netstandard2.0\APP.Android.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\obj\Debug\netstandard2.0\APP.Android.AssemblyInfo.cs
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\obj\Debug\netstandard2.0\APP.Android.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\obj\Debug\netstandard2.0\APP.Android.dll
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\obj\Debug\netstandard2.0\refint\APP.Android.dll
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\obj\Debug\netstandard2.0\APP.Android.pdb
+D:\ProyectosProgramacion\XamarinProjects\APP.Android2\APP.Android\obj\Debug\netstandard2.0\ref\APP.Android.dll
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\bin\Debug\netstandard2.0\APP.Android.deps.json
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\bin\Debug\netstandard2.0\APP.Android.dll
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\bin\Debug\netstandard2.0\APP.Android.pdb
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.csproj.AssemblyReference.cache
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\Registration.xaml.g.cs
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.AssemblyInfoInputs.cache
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.AssemblyInfo.cs
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.csproj.CoreCompileInputs.cache
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.dll
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\refint\APP.Android.dll
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\APP.Android.pdb
+C:\Users\Jose Gerardo Gomez\Desktop\ss\APP.Android\APP.Android\obj\Debug\netstandard2.0\ref\APP.Android.dll

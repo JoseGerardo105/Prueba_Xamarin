@@ -1,0 +1,30 @@
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\bin\Debug\net6.0\WebAppi.Data.deps.json
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\bin\Debug\net6.0\WebAppi.Data.dll
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\bin\Debug\net6.0\WebAppi.Data.pdb
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\bin\Debug\net6.0\WebAppi.Model.dll
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\bin\Debug\net6.0\WebAppi.Model.pdb
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.AssemblyInfo.cs
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.csproj.CopyComplete
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.dll
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\obj\Debug\net6.0\refint\WebAppi.Data.dll
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.pdb
+D:\ProyectosProgramacion\XamarinProjects\WebAppi\WebAppi.Data\obj\Debug\net6.0\ref\WebAppi.Data.dll
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\bin\Debug\net6.0\WebAppi.Data.deps.json
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\bin\Debug\net6.0\WebAppi.Data.dll
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\bin\Debug\net6.0\WebAppi.Data.pdb
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\bin\Debug\net6.0\WebAppi.Model.dll
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\bin\Debug\net6.0\WebAppi.Model.pdb
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.csproj.AssemblyReference.cache
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.AssemblyInfoInputs.cache
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.AssemblyInfo.cs
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.csproj.CopyComplete
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.dll
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\obj\Debug\net6.0\refint\WebAppi.Data.dll
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\obj\Debug\net6.0\WebAppi.Data.pdb
+C:\Users\Jose Gerardo Gomez\Desktop\Prueba_Xamarin\WebAppi\WebAppi.Data\obj\Debug\net6.0\ref\WebAppi.Data.dll

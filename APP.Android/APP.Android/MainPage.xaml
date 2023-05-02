@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="APP.Android.MainPage"
+             Title="Lista de usuarios">
+    <StackLayout Padding="15">
+        <Button Text="Add User"
+                HorizontalOptions="FillAndExpand"
+                BackgroundColor="Orange"
+                TextColor="Black"
+                Clicked="Button_Clicked" />
+        <ListView x:Name="UList"
+                  HasUnevenRows="True"
+                  ItemTapped="UList_ItemTapped"
+                  IsPullToRefreshEnabled="True"
+                  Refreshing="UList_Refreshing">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem Text="Delete"
+                                      Clicked="MenuItem_Clicked"
+                                      IsDestructive="True"
+                                      CommandParameter="{Binding Id}"></MenuItem>
+                        </ViewCell.ContextActions>
+                        <StackLayout Spacing="2">
+                            <Label x:Name="labelId"
+                                   TextColor="Black"
+                                   Text="{Binding Id, StringFormat='Id: {0:F0} '}"
+                                   FontSize="Medium" />
+                            <Label x:Name="labelName"
+                                   TextColor="Black"
+                                   Text="{Binding Name, StringFormat='Nombre: {0:F0}' }"
+                                   FontSize="Small" />
+                            <Label x:Name="labelLastname"
+                                   TextColor="Black"
+                                   Text="{Binding LastName, StringFormat='Apellido: {0:F0}' }"
+                                   FontSize="Small" />
+                            <Label x:Name="phoneNumber"
+                                   TextColor="Black"
+                                   Text="{Binding Email, StringFormat='Teléfono: {0:F0}'}"
+                                   FontSize="Small" />
+                            <Label x:Name="labelEmail"
+                                   TextColor="Black"
+                                   Text="{Binding Phone, StringFormat='Correo: {0:F0}' }"
+                                   FontSize="Small" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

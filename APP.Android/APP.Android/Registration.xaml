@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="APP.Android.Registration" Title="Registro usuario">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="15">
+                <Label Text="Llene todos los campos" FontSize="Small" FontAttributes="Bold" />
+                <Entry Placeholder="Nombre" TextColor ="Black" x:Name="txtName"></Entry>
+                <Editor Placeholder="Apellido" TextColor="Black" x:Name="txtLastname" HeightRequest="50"></Editor>
+                <Entry Placeholder="Email" Keyboard="Email" TextColor="Black" x:Name="txtEmail"></Entry>
+                <Entry Placeholder="Teléfono" Keyboard="Numeric" TextColor="Black" x:Name="txtMobile"></Entry>
+                
+                <Button Text="Register" HorizontalOptions="FillAndExpand" x:Name="BtnRegistration"
+                        Clicked="BtnRegistration_Clicked"></Button>
+                <Button Text="Update" HorizontalOptions="FillAndExpand" x:Name="BtnUpdate"
+                        Clicked="BtnUpdate_Clicked" ></Button>
+            </StackLayout>
+        </ScrollView>
+
+    </ContentPage.Content>
+</ContentPage>
