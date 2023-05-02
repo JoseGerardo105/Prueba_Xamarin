@@ -35,7 +35,7 @@ namespace WebAppi.Data.Repositories
         public async Task<User> GetDetails(int id)
         {
             var db = dbConnection();
-            var sql = @"SELECT id, name, lastname, phone, email FROM users WHERE id = @Id";
+            var sql = @"SELECT id, name, lastname, phone, email FROM user WHERE id = @Id";
 
             return await db.QueryFirstOrDefaultAsync<User>(sql, new { Id = id });
         }
@@ -43,7 +43,7 @@ namespace WebAppi.Data.Repositories
         public async Task<bool> InsertUser(User user)
         {
             var db = dbConnection();
-            var sql = @"INSERT INTO users(name, lastname, phone, email) 
+            var sql = @"INSERT INTO user(name, lastname, phone, email) 
                         VALUES(@Name, @Lastname, @Phone, @Email) ";
 
             var result = await db.ExecuteAsync(sql, new { 
@@ -56,7 +56,7 @@ namespace WebAppi.Data.Repositories
         public async Task<bool> UpdateUser(User user)
         {
             var db = dbConnection();
-            var sql = @"UPDATE users
+            var sql = @"UPDATE user
                         SET name=@Name,
                             lastname=@Lastname,
                             phone=@Phone,
@@ -68,7 +68,8 @@ namespace WebAppi.Data.Repositories
                 user.Name,
                 user.Lastname,
                 user.Phone,
-                user.Email
+                user.Email,
+                user.Id
             });
 
             return result > 0;
@@ -76,7 +77,7 @@ namespace WebAppi.Data.Repositories
         public async Task<bool> DeleteUser(User user)
         {
             var db = dbConnection();
-            var sql = @"DELETE FROM users WHERE id = @Id";
+            var sql = @"DELETE FROM user WHERE id = @Id";
             var result = await db.ExecuteAsync(sql, new { Id = user.Id });
 
             return result > 0;

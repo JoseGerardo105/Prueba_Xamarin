@@ -4,5 +4,6 @@
     <SelectedDevice>Samsung SM-N975F</SelectedDevice>
     <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
     <ActiveDebugProfile>Samsung SM-N975F %28Android 9.0 - API 28%29</ActiveDebugProfile>
+    <DefaultDevice>pixel_5_-_api_33</DefaultDevice>
   </PropertyGroup>
 </Project>
